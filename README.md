@@ -1,4 +1,4 @@
-# 一 项目介绍
+# (一)  项目介绍
 ## SCLC(Small Cell Lung Cancer) RAG service : 
 a RAG + KB(knowlege base & Operation) combo-service for SCLC patient and families to master knowlege and achieve best treatment benefits
 ## 小肺宝
@@ -6,7 +6,7 @@ a RAG + KB(knowlege base & Operation) combo-service for SCLC patient and familie
 
 --- 
 
-# 二 项目价值
+# (二)  项目价值
 ### 我们希望看到：
 ｜- 患者都能得到及时准确的医疗知识援助
 ｜- 专家经验能够极低成本扩散
@@ -17,7 +17,7 @@ a RAG + KB(knowlege base & Operation) combo-service for SCLC patient and familie
 ### 因为我们相信:
 ｜一个弱者，在情境中若想崛起，若想为自己的权力抗争，唯一的方法就是尽量发光。不是因为相信这个光可以照亮一切，只是因为黑暗里的一点点光在远处会特别耀眼，其他的光会看到你这扇光。微光会吸引微光，微光会照亮微光，我们相互找到，然后一起发光，才能把压榨的阴霾照亮。
 
-# 三 开源框架1+1的创新：
+# (三)  开源框架1+1的创新：
 ｜和传统的代码开源不同，小肺宝强调技术+运营的双开源，以便于使用者能够将技术能力转化为服务价值。
 
 ## 3.1 技术栈
@@ -43,11 +43,11 @@ a RAG + KB(knowlege base & Operation) combo-service for SCLC patient and familie
 示意图
 
 ---
-# 四. 产品功能V1.0
+# (四) 产品功能V1.0
 （待补充）
 
 
-# 五. 关于SCLC的基础介绍 
+# (五) 关于SCLC的基础介绍 
 [NCCN Guideline English](https://www.nccn.org/professionals/physician_gls/pdf/sclc.pdf)<br>
 [NCCN Guideline 中文版](https://www.nccn.org/professionals/physician_gls/pdf/sclc-chinese.pdf)<br>
 [NNCN患者手册](https://www.nccn.org/patients/guidelines/content/PDF/SCLC-patient-guideline.pdf)<br>
