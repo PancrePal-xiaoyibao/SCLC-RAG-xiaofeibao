@@ -51,3 +51,6 @@ a RAG + KB(knowlege base & Operation) combo-service for SCLC patient and familie
 [NCCN Guideline English](https://www.nccn.org/professionals/physician_gls/pdf/sclc.pdf)<br>
 [NCCN Guideline 中文版](https://www.nccn.org/professionals/physician_gls/pdf/sclc-chinese.pdf)<br>
 [NNCN患者手册](https://www.nccn.org/patients/guidelines/content/PDF/SCLC-patient-guideline.pdf)<br>
+
+# 🌟 贡献者
+![Contributors 贡献者](https://contrib.rocks/image?repo=PancrePal-xiaoyibao/PancrePal-xiaoyibao&Max=1000")
