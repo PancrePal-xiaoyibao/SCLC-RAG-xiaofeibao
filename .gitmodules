@@ -4,3 +4,6 @@
 [submodule "src/dify-on-wechat"]
 	path = src/dify-on-wechat
 	url = https://github.com/hanfangyuan4396/dify-on-wechat
+[submodule "src/MinerU"]
+	path = src/MinerU
+	url = https://github.com/opendatalab/MinerU
