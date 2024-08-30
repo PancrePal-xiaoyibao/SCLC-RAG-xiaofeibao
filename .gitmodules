@@ -1,0 +1,6 @@
+[submodule "src/dify"]
+	path = src/dify
+	url = https://github.com/langgenius/dify
+[submodule "src/dify-on-wechat"]
+	path = src/dify-on-wechat
+	url = https://github.com/hanfangyuan4396/dify-on-wechat
