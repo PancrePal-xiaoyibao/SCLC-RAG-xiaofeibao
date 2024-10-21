@@ -45,17 +45,22 @@ a RAG + KB(knowlege base & Operation) combo-service for Lung Cancer patient and 
 示意图
 
 ### 3.2.4. 小肺宝上线国内的主流平台
-####腾讯元器：
-[小肺宝web端](https://yuanbao.tencent.com/chat/yn4tWRj9x3lm) <br>
-[小程序端](<img width="185" alt="image" src="https://github.com/user-attachments/assets/ac5939ef-04f9-4535-8366-6e23ccef92f3">)<br>
+#### 腾讯元器：
+1. [小肺宝web端](https://yuanbao.tencent.com/chat/yn4tWRj9x3lm)  <br>
+2. 小程序端<br>
+<img src="https://github.com/user-attachments/assets/ac5939ef-04f9-4535-8366-6e23ccef92f3" width="185" alt="小程序端">
+
 ---
 #### Cozy:
+(to be filled)
 
 ---
 #### Baidu:
+(to be filled)
 
 
 #### zhipu:
+(to be filled)
 
 ---
 
@@ -68,6 +73,17 @@ a RAG + KB(knowlege base & Operation) combo-service for Lung Cancer patient and 
 [NCCN Guideline English](https://www.nccn.org/professionals/physician_gls/pdf/sclc.pdf)<br>
 [NCCN Guideline 中文版](https://www.nccn.org/professionals/physician_gls/pdf/sclc-chinese.pdf)<br>
 [NNCN患者手册](https://www.nccn.org/patients/guidelines/content/PDF/SCLC-patient-guideline.pdf)<br>
+
+# (五) 肺癌患者社群
+- 微信公众号：搜索“小肺宝助手”，关注即可。
+- 小红书： 搜索“小肺宝助手”，关注即可。
+- 社群：微信扫码快速加入社群。
+
+# （六）志愿者招募
+小肺宝团队需要持续招募如下职能志愿者：
+1. 运营团队：涵盖多个领域，招募医学顾问、数据分析师、用户体验设计师以及社群服务专员等背景志愿者，需要6小时以上/周的工作时间。
+2. RAG团队：提供RAG技术和应用开发能力，提供从KB建立到RAG质量闭环提升的全部工作，需要1-2年RAG实际操作经验和独当一面的能力；
+3. 知识库团队：提供专业医疗背景，对于后续知识库的更新和维护提供专业意见，欢迎临床，药学，护理背景的公益志愿者。
 
 # 🌟 贡献者
 ![Contributors 贡献者](https://contrib.rocks/image?repo=PancrePal-xiaoyibao/PancrePal-xiaoyibao&Max=1000")
