@@ -1,8 +1,10 @@
 # (一)  项目介绍
-## SCLC(Small Cell Lung Cancer) RAG service : 
-a RAG + KB(knowlege base & Operation) combo-service for SCLC patient and families to master knowlege and achieve best treatment benefits
+##  RAG-xiaofeibao-Lungcancer service : 
+a RAG + KB(knowlege base & Operation) combo-service for Lung Cancer patient and families to master knowlege and achieve best treatment benefits
 ## 小肺宝
-一款面向小细胞肺癌的RAG技术+知识库运营整合应用服务，努力为SLCC患者和家庭高效掌握疾病治疗信息，并获得最大治疗受益。
+- 一款面向肺癌患者的RAG技术+知识库整合方案。
+- 提供RAG能力加持的AI助手，努力为SLCC患者和家庭高效掌握疾病治疗信息，并获得最大治疗受益。
+- 由病友家属和志愿者Chaixiaole/wuxiucong/Jerry苏/zhanggaofeng等，以及小胰宝发起人Sam Qin/Tian Kafei/Lv shaobao，以及Stepfun/零一万物伙伴，携手构建。
 
 --- 
 
@@ -42,12 +44,27 @@ a RAG + KB(knowlege base & Operation) combo-service for SCLC patient and familie
 ### 3.2.3. 运营体系框架
 示意图
 
+### 3.2.4. 小肺宝上线国内的主流平台
+####腾讯元器：
+[小肺宝web端](https://yuanbao.tencent.com/chat/yn4tWRj9x3lm) <br>
+[小程序端](<img width="185" alt="image" src="https://github.com/user-attachments/assets/ac5939ef-04f9-4535-8366-6e23ccef92f3">)<br>
 ---
+#### Cozy:
+
+---
+#### Baidu:
+
+
+#### zhipu:
+
+---
+
+
 # (四) 产品功能V1.0
 （待补充）
 
 
-# (五) 关于SCLC的基础介绍 
+# (五) 肺癌患者宝典 
 [NCCN Guideline English](https://www.nccn.org/professionals/physician_gls/pdf/sclc.pdf)<br>
 [NCCN Guideline 中文版](https://www.nccn.org/professionals/physician_gls/pdf/sclc-chinese.pdf)<br>
 [NNCN患者手册](https://www.nccn.org/patients/guidelines/content/PDF/SCLC-patient-guideline.pdf)<br>
